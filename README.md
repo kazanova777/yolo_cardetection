@@ -10,6 +10,9 @@ This project combines **YOLOv12** for license plate detection and **TrOCR (Trans
 - ✅ Works on real images and videos
 - ✅ Training pipeline included — from dataset parsing to model training
 
+
+<img width="646" alt="image" src="https://github.com/user-attachments/assets/06be660f-8a66-4cb0-a9bd-e4e12a7f4b38" />
+
 ---
 
 ## 📁 Dataset
